@@ -1,4 +1,4 @@
-# 4.Forgot Password
+# Forgot Password
 
 In this challenge, there a login page where the user needs valid credentials to access the flag. However, the user is said to have forgotten their login credentials. 
 Then, I began to view the source code , it  shows“static/login.js" which  simple js login to validate a static username/password.
