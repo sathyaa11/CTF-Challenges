@@ -1,4 +1,4 @@
-# 6.Admin Dashboard 2
+# Admin Dashboard 2
 I started by registering a new user account through the provided registration form. After successfully registering, I logged into the application.Once logged in,
 I explored the application to understand its features.I tested the note submission feature by creating a new note but but it did not reveal any vulnerabilities .
 
