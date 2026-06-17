@@ -1,6 +1,7 @@
 # DOT DOT SLASH 2
 
 In this challenge , I  download dotdotslash file and review in that folder. In that folder,  I found a setup.sh file and it created a flag.txt file, but the file was empty.
+
 <img width="660" height="271" alt="image" src="https://github.com/user-attachments/assets/469701f0-d5a0-4f94-a7ed-9f6b4151d06b" />
 
 
