@@ -7,4 +7,5 @@ Then, it shows a path .Then ,I copied the path.
 <img width="845" height="172" alt="image" src="https://github.com/user-attachments/assets/0fc9d27b-90a0-4a89-a977-ba7dd2c6525c" />
 
 Then , paste path in url , then it shows the flag.
+
 <img width="507" height="227" alt="image" src="https://github.com/user-attachments/assets/ddde591d-66b7-46c8-a942-791afdfd56ef" />
